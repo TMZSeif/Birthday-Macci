@@ -59,6 +59,11 @@ hr {
 	opacity: 1 !important;
 }
 
+img {
+	display: block;
+	margin: auto;
+}
+
 
 @keyframes text {
 	0% {
